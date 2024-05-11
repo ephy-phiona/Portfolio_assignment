@@ -1,0 +1,82 @@
+body{
+    background-color: #f6fbfd;
+    box-sizing: border-box;
+    box-shadow: #002333;
+    margin: 5%;
+}
+
+.section1 img{
+    width: 50%;
+    height: 30%;
+    border-radius: 20%;
+    border: 10px solid #002333;
+    padding-left: 1%;
+
+}
+.section1{
+    justify-content: right;
+    bottom: 5%;
+    padding-top: 5%;
+    align-items: inline;
+    display: flex;
+    font-family: monospace;
+    
+}
+#info{
+    margin-left: 5%;
+}
+
+.name{
+    font-size: 3rem;
+    color: #002333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline;
+    
+}
+.about{
+  justify-content: center; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  margin: 5%;
+  
+}
+.about h1{
+    text-align: center;
+    font-size: 4rem;
+    font-family: monospace;
+    color: #002333;
+
+}
+.about p{
+    font-size: 2rem;
+    font-family: monospace;
+    color: #002333;
+}
+.section2{
+    /* justify-content: right; */
+    bottom: 5%;
+    padding-top: 5%;
+    align-items: inline;
+    display: flex;
+    font-family: monospace;
+    ;
+    
+}
+.list{
+    font-size: 2rem;
+    color: #002333;
+    /* text-transform: uppercase; */
+    letter-spacing: 1px;
+}
+#hobby{
+    margin-left: 40%;
+}
+#skills h1{
+    font-size: 4rem;
+    color: #002333;
+}
+#hobby h1{
+    font-size: 4rem;
+    color: #002333;
+}
+
